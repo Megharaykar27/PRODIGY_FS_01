@@ -220,9 +220,9 @@ git push -u origin main
 
 ## 👤 Author
 
-**Your Name**  
+**Megha Raykar**  
 Prodigy Infotech Full Stack Internship  
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [@Megharaykar27](https://github.com/Megharaykar27)
 
 ---
 
