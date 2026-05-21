@@ -9,13 +9,13 @@ A production-ready full-stack authentication system built with React, Node.js, E
 ## 📸 Screenshots
 
 ### Login Page
-![Login](./screenshots/login.png)
+![Login](./screenshot/login.png)
 
 ### Register Page
-![Register](./screenshots/register.png)
+![Register](./screenshot/register.png)
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshot/dashboard.png)
 
 ---
 
